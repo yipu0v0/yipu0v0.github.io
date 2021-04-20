@@ -20,8 +20,8 @@
 
 title: Yipu's blog
 email: yipu0v0@qq.com
-description: >- # this means to ignore newlines until "baseurl:"
-  TODO
+# description: >- # this means to ignore newlines until "baseurl:"
+#   TODO
 baseurl: "" # the subpath of your site, e.g. /blog
 url: yipu0v0.github.io
 github_username:  yipu0v0
